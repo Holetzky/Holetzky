@@ -1,6 +1,5 @@
 - 🌈 Hi, I’m @Holetzky
 - 👀 I love when companies collect my data.
-- 🌱 I’m currently learning Flutter, React Native and Affinity Designer or nothing. 🙈
 - 📫 Please feel free to contact me!
 
 <!---
